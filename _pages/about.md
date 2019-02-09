@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-
-Currently, I'm a 2nd year Ph.D. student in [IFM Lab](http://www.ifmlab.org/) at Florida State University, advised by Dr. Jiawei Zhang. Prior to joining FSU, I received M.S. in Computer Science from Worcester Polytechnic Institute and B.Eng. in Software Engineering and L.L.B in Law from Nanjing University.
+Currently, I'm a 2nd year Ph.D. student in [IFM Lab](http://www.ifmlab.org/) at Florida State University, advised by [Dr. Jiawei Zhang](http://www.ifmlab.org/). Prior to joining FSU, I received M.S. in Computer Science from Worcester Polytechnic Institute and B.Eng. in Software Engineering and L.L.B in Law from Nanjing University.
 My research interests lie in the fields of data mining and machine learning. In particular, I focus on the development and analysis of algorithms for brain, social and information networks, as well as modeling feature interactions [slides] and broad learning for healthcare [slides].
 ​
 
