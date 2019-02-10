@@ -19,18 +19,18 @@ Education
 
 Experience
 ======
-* 2017.12-present: &nbsp;&nbsp;&nbsp;&nbsp;Research Assistant
+* 2017.12-present: &nbsp;&nbsp;Research Assistant
   * IMF Lab, Florida State University
   * Supervisor: Dr. Jiawei Zhang
 
-* 2018.5-2018.8: &nbsp;&nbsp;&nbsp;&nbsp;Research Intern
+* 2018.5-2018.8: &nbsp;&nbsp;Research Intern
   * JD Finance, Beijing, China
   * Supervisor: Mr. Hao Zhu
 
-* 2016.5-2017.8: &nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern
+* 2016.5-2017.8: &nbsp;&nbsp;Software Engineer Intern
   * Dealertrack Technologies, Groton, CT
 
-* 2014.7-2015.1: &nbsp;&nbsp;&nbsp;&nbsp;Software Developer Intern
+* 2014.7-2015.1: &nbsp;&nbsp;Software Developer Intern
   * IBM China Development Laboratory, Shanghai, China
   * Supervisor: Mr. Xinwei Chen
 
