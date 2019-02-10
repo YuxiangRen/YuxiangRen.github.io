@@ -11,25 +11,26 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Computer Science, Florida State University, 2021 (expected)
+* M.S. in Computer Science, Worcester Polytechnic Institute, 2017
 * B.S. in Software Engineering, Nanjing University, 2015
 * LL.B. in Law, Nanjing University, 2015
-* M.S. in Computer Science, Worcester Polytechnic Institute, 2017
-* Ph.D in Computer Science, Florida State University, 2021 (expected)
+
 
 Experience
 ======
-* 2017.12-present Research Assistant
+* 2017.12-present: &nbsp;&nbsp;&nbsp;&nbsp;Research Assistant
   * IMF Lab, Florida State University
   * Supervisor: Dr. Jiawei Zhang
 
-* 2018.5-2018.8: Research Intern
+* 2018.5-2018.8: &nbsp;&nbsp;&nbsp;&nbsp;Research Intern
   * JD Finance, Beijing, China
   * Supervisor: Mr. Hao Zhu
 
-* 2016.5-2017.8: Software Engineer Intern
+* 2016.5-2017.8: &nbsp;&nbsp;&nbsp;&nbsp;Software Engineer Intern
   * Dealertrack Technologies, Groton, CT
 
-* 2014.7-2015.1: Software Developer Intern
+* 2014.7-2015.1: &nbsp;&nbsp;&nbsp;&nbsp;Software Developer Intern
   * IBM China Development Laboratory, Shanghai, China
   * Supervisor: Mr. Xinwei Chen
 
@@ -54,3 +55,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
