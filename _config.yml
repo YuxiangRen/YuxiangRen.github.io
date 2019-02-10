@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Yuxiang Ren"
 title_separator          : "-"
-name                     : &name "Yuxiang Ren"
+name                     : &name "Yuxiang Ren (任宇翔)"
 description              : &description "Ph.D. Student, Florida State University"
 url                      : https://yuxiangren.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Student, Florida State University"
   location         : "Tallahassee, FL"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
