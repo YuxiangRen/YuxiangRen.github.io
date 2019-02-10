@@ -10,7 +10,7 @@ redirect_from:
 
 Currently, I'm a 2nd year Ph.D. student in [IFM Lab](http://www.ifmlab.org/) at Florida State University, advised by [Dr. Jiawei Zhang](http://www.ifmlab.org/). Prior to joining FSU, I received M.S. in Computer Science from Worcester Polytechnic Institute in 2017 and B.Eng. in Software Engineering and L.L.B in Law from Nanjing University in 2015.​
 
-My research interests lie in the fields of data mining and machine learning. In particular, I focus on the development and analysis of algorithms for social and information networks, as well as heterogeneous network mining and fake news detection.
+My research interests lie in the fields of data mining and machine learning. In particular, I focus on the development and analysis of algorithms for social and information networks, as well as heterogeneous graph mining and fake news detection.
 
 
 ​Email: yuxiang@ifmlab.org
