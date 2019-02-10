@@ -16,26 +16,22 @@ Education
 * M.S. in Computer Science, Worcester Polytechnic Institute, 2017
 * Ph.D in Computer Science, Florida State University, 2021 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017.12-present Research Assistant
+  * IMF Lab, Florida State University
+  * Supervisor: Dr. Jiawei Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018.5-2018.8: Research Intern
+  * JD Finance, Beijing, China
+  * Supervisor: Mr. Hao Zhu
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2016.5-2017.8: Software Engineer Intern
+  * Dealertrack Technologies, Groton, CT
+
+* 2014.7-2015.1: Software Developer Intern
+  * IBM China Development Laboratory, Shanghai, China
+  * Supervisor: Mr. Xinwei Chen
 
 Publications
 ======
@@ -43,7 +39,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
