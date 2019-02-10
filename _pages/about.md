@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Yuxiang Ren"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

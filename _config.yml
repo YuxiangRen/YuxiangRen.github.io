@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxiang Ren"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yuxiang Ren"
 description              : &description "Ph.D. Student, Florida State University"
