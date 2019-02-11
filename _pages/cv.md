@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, Florida State University, 2021 (expected)
 * M.S. in Computer Science, Worcester Polytechnic Institute, 2017
-* B.S. in Software Engineering, Nanjing University, 2015
+* B.Eng. in Software Engineering, Nanjing University, 2015
 * LL.B. in Law, Nanjing University, 2015
 
 
