@@ -20,7 +20,7 @@ Education
 Experience
 ======
 * 2017.12-present: &nbsp;&nbsp;Research Assistant
-  * IMF Lab, Florida State University
+  * IFM Lab, Florida State University
   * Supervisor: Dr. Jiawei Zhang
 
 * 2018.5-2018.8: &nbsp;&nbsp;Research Intern
