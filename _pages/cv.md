@@ -27,7 +27,7 @@ Experience
   * JD Finance, Beijing, China
   * Supervisor: Mr. Hao Zhu
 
-* 2016.5-2017.8: &nbsp;&nbsp;Software Engineer Intern
+* 2016.5-2017.5: &nbsp;&nbsp;Software Engineer Intern
   * Dealertrack Technologies, Groton, CT
 
 * 2014.7-2015.1: &nbsp;&nbsp;Software Developer Intern
