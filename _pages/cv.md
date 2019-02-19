@@ -29,6 +29,7 @@ Experience
 
 * 2016.5-2017.5: &nbsp;&nbsp;Software Engineer Intern
   * Dealertrack Technologies, Groton, CT
+  * Supervisor: Mr. Mark Vitko
 
 * 2014.7-2015.1: &nbsp;&nbsp;Software Developer Intern
   * IBM China Development Laboratory, Shanghai, China
