@@ -41,6 +41,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Awards
+======
+* NSF Student Travel Award, ICDE'19
+
 <!--Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,3 +61,5 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
+
+
