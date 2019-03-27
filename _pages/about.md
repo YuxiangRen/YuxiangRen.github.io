@@ -18,4 +18,6 @@ My research interests lie in the fields of data mining and machine learning. In 
 
 News
 ------
-* One research paper Meta Diagram based Active Social Networks Alignment is accepted by ICDE 2019.
+* 02/2019 One research paper Meta Diagram based Active Social Networks Alignment is accepted by ICDE 2019.
+* 04/2019 I will present my paper in ICDE 2019, Macau.
+* 04/2019 I will join JD Digits AI Lab, Machine Learning Group, Mountain View, CA to work as a Research Intern this summer.
