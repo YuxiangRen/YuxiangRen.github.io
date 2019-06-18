@@ -24,6 +24,10 @@ Experience
   * Supervisor: Dr. Jiawei Zhang
 
 * 2018.5-2018.8: &nbsp;&nbsp;Research Intern
+  * JD Digits, AI Lab, Silicon Valley, CA
+  * Supervisor: Dr. Liefeng Bo
+
+* 2018.5-2018.8: &nbsp;&nbsp;Research Intern
   * JD Finance, Beijing, China
   * Supervisor: Mr. Hao Zhu
 
