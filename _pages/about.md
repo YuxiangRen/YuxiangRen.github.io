@@ -20,6 +20,6 @@ News
 ------
 * 11/2019 One research paper is accepted by IEEE CIC 2019 as an invited submission.
 * 10/2019 One research paper is accepted by TKDE 2019.
-* 04/2019 I will join JD Digits AI Lab, Machine Learning Group, Mountain View, CA to work as a Research Intern this summer.
+* 04/2019 I will join JD Digits AI Lab, Machine Learning Group, Mountain View as a Research Intern this summer.
 * 04/2019 I will present my paper in ICDE 2019, Macau.
 * 02/2019 One research paper is accepted by ICDE 2019.
