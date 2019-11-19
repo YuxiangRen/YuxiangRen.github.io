@@ -25,7 +25,7 @@ Experience
 
 * 2019.5-2019.8: &nbsp;&nbsp;Research Intern
   * JD Digits AI Lab, Silicon Valley, CA
-  * Supervisor: Dr. Liefeng Bo
+  * Supervisor: Dr. Liefeng Bo, Dr. Bo Liu
 
 * 2018.5-2018.8: &nbsp;&nbsp;Research Intern
   * JD Finance, Beijing, China
