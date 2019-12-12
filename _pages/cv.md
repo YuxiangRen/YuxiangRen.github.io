@@ -47,6 +47,7 @@ Publications
 
 Awards
 ======
+* NSF Student Travel Award, IEEE TPS'19
 * NSF Student Travel Award, ICDE'19
 
 <!--Talks
