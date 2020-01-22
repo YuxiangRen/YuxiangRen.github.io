@@ -85,9 +85,9 @@ author:
   bio              : "Ph.D. Student, Florida State University"
   location         : "Tallahassee, FL"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=SSC2dgcAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yuxiang_Ren"
   uri              :
   bitbucket        :
   codepen          :
