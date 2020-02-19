@@ -47,6 +47,7 @@ Publications
 
 Awards
 ======
+* Student Travel Award, AAAI DLGMA'20
 * NSF Student Travel Award, IEEE TPS'19
 * NSF Student Travel Award, ICDE'19
 
