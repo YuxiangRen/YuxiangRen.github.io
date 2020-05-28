@@ -19,8 +19,9 @@ My research interests lie in the fields of data mining and machine learning. In 
 News
 ------
 
-* 04/2020 I will serve as a PC member for ECML-PKDD 2020!
-* 03/2020 I will serve as a Journal Reviewer for IEEE Transactions on Big Data!
+* 05/2020 One research paper is accepted by ACM Conference on Hypertext and Social Media (HT’20).
+* 04/2020 I will serve as a PC member for ECML-PKDD 2020.
+* 03/2020 I will serve as a Journal Reviewer for IEEE Transactions on Big Data.
 * 01/2020 I will join NEC Labs, Princeton, NJ as a Research Intern this summer.
 * 11/2019 One research paper is accepted by IEEE CIC 2019 as an invited submission.
 * 10/2019 One research paper is accepted by TKDE 2019.
