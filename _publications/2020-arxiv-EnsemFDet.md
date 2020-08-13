@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-arxiv-EnsemFDet
 excerpt: 'Yuxiang Ren, Hao Zhu, Jiawei Zhang, Peng Dai and Liefeng Bo'
 date: 2020-08-01
-venue: 'IEEE International Conference on Data Engineering (ICDE), Chania, Greece, April 19-22, 2021'
+venue: 'IEEE International Conference on Data Engineering (ICDE), Chania, Greece, April 19-22'
 ---
 [Paper](http://yuxiangren.github.io/files/EnsemFDet2020.pdf)
 
