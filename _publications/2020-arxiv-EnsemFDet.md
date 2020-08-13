@@ -2,9 +2,9 @@
 title: "EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph"
 collection: publications
 permalink: /publication/2020-arxiv-EnsemFDet
-excerpt: 'Yuxiang Ren, Hao Zhu, Jiawei ZHang, Peng Dai and Liefeng Bo'
-date: 2020-02-01
-venue: 'ArXiv Preprint arXiv:1912.11113'
+excerpt: 'Yuxiang Ren, Hao Zhu, Jiawei Zhang, Peng Dai and Liefeng Bo'
+date: 2020-08-01
+venue: 'IEEE International Conference on Data Engineering (ICDE), Chania, Greece, April 19-22, 2021'
 ---
 [Paper](http://yuxiangren.github.io/files/EnsemFDet2020.pdf)
 
