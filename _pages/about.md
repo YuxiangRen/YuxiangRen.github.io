@@ -18,7 +18,7 @@ My research interests lie in the fields of data mining and machine learning. In 
 
 News
 ------
-* 05/2020 One research paper is accepted by ICDE 2021.
+* 08/2020 One research paper is accepted by ICDE 2021.
 * 05/2020 One research paper is accepted by ACM Conference on Hypertext and Social Media (HT’20).
 * 04/2020 I will serve as a PC member for ECML-PKDD 2020.
 * 03/2020 I will serve as a Journal Reviewer for IEEE Transactions on Big Data.
