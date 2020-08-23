@@ -23,6 +23,10 @@ Experience
   * IFM Lab, Florida State University
   * Supervisor: Dr. Jiawei Zhang
 
+* 2020.5-2020.8: &nbsp;&nbsp;Research Intern
+  * NEC Labs America, Princeton, NJ
+  * Supervisor: Dr. Lu-an Tang, Dr. Wei Cheng
+
 * 2019.5-2019.8: &nbsp;&nbsp;Research Intern
   * JD Digits AI Lab, Silicon Valley, CA
   * Supervisor: Dr. Liefeng Bo, Dr. Bo Liu
