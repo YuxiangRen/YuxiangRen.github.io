@@ -18,6 +18,7 @@ My research interests lie in the fields of data mining and machine learning. In 
 
 News
 ------
+* 10/2020 One research paper is accepted by ASONAM 2020.
 * 09/2020 I will serve as a Journal Reviewer for IEEE Transactions on Knowledge and Data Engineering.
 * 08/2020 One research paper is accepted by ICDM 2020.
 * 08/2020 One research paper is accepted by ICDE 2021.
