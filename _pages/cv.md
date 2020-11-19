@@ -51,6 +51,8 @@ Publications
 
 Awards
 ======
+* Student Travel Award, ICDM 2020
+* Student Conference Travel Funding, FSU Computer Science Department, 2020
 * Student Travel Award, AAAI DLGMA'20
 * NSF Student Travel Award, IEEE TPS'19
 * NSF Student Travel Award, ICDE'19
