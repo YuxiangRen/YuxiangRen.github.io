@@ -18,6 +18,7 @@ My research interests lie in the fields of data mining and machine learning. In 
 
 News
 ------
+* 02/2021 I will join NEC Labs, Princeton, NJ as a Research Intern 2021 summer.
 * 01/2021 One research paper is accepted by DASFAA 2021.
 * 10/2020 One research paper is accepted by ASONAM 2020.
 * 09/2020 I will serve as a Journal Reviewer for IEEE Transactions on Knowledge and Data Engineering.
