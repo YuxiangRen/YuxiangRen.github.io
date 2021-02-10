@@ -21,6 +21,7 @@ News
 * 02/2021 I will join NEC Labs, Princeton, NJ as a Research Intern 2021 summer.
 * 01/2021 One research paper is accepted by DASFAA 2021.
 * 10/2020 One research paper is accepted by ASONAM 2020.
+* 09/2020 I will serve as a PC member for AAAI 2021.
 * 09/2020 I will serve as a Journal Reviewer for IEEE Transactions on Knowledge and Data Engineering.
 * 08/2020 One research paper is accepted by ICDM 2020.
 * 08/2020 One research paper is accepted by ICDE 2021.
