@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm a 4th year Ph.D. candidate in [IFM Lab](http://www.ifmlab.org/) at Florida State University, advised by [Dr. Jiawei Zhang](http://www.ifmlab.org/). Prior to joining FSU, I received M.S. in Computer Science from Worcester Polytechnic Institute in 2017 and B.Eng. in Software Engineering and L.L.B in Law from Nanjing University in 2015.​
+I got my Ph.D. in [IFM Lab](http://www.ifmlab.org/) at Florida State University, advised by [Dr. Jiawei Zhang](http://www.ifmlab.org/) in 2021. Prior to joining FSU, I received M.S. in Computer Science from Worcester Polytechnic Institute in 2017 and B.Eng. in Software Engineering and L.L.B in Law from Nanjing University in 2015.​
 
 My research interests lie in the fields of data mining and machine learning. In particular, I focus on the development and analysis of algorithms about graph neural networks, as well as heterogeneous graph mining and fake news detection.
 
@@ -18,6 +18,7 @@ My research interests lie in the fields of data mining and machine learning. In 
 
 News
 ------
+* 10/2021 I passed my Ph.D. Dissertation Defence
 * 04/2021 Three research papers are accepted by IJCNN 2021.
 * 02/2021 I will join NEC Labs, Princeton, NJ as a Research Intern 2021 summer.
 * 01/2021 One research paper is accepted by DASFAA 2021.

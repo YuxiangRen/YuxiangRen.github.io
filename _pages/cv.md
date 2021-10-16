@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Florida State University, 2021 (expected)
+* Ph.D in Computer Science, Florida State University, 2021
 * M.S. in Computer Science, Worcester Polytechnic Institute, 2017 
 * B.Eng. in Software Engineering, Nanjing University, 2015
 * LL.B. in Law, Nanjing University, 2015
@@ -19,7 +19,7 @@ Education
 
 Experience
 ======
-* 2017.12-present: &nbsp;&nbsp;Research Assistant
+* 2017.12-2021.12: &nbsp;&nbsp;Research Assistant
   * IFM Lab, Florida State University
   * Supervisor: Dr. Jiawei Zhang
 
