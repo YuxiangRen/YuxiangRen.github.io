@@ -18,7 +18,10 @@ My research interests lie in the fields of data mining and machine learning. In 
 
 News
 ------
+* 10/2021 I will serve as a PC member for The Web Conference 2022.
+* 10/2021 I will serve as a PC member for ICLR 2022.
 * 10/2021 I passed my Ph.D. Dissertation Defence
+* 06/2021 I will serve as a PC member for NeurIPS 2021.
 * 04/2021 Three research papers are accepted by IJCNN 2021.
 * 02/2021 I will join NEC Labs, Princeton, NJ as a Research Intern 2021 summer.
 * 01/2021 One research paper is accepted by DASFAA 2021.
