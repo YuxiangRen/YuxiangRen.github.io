@@ -18,6 +18,7 @@ My research interests lie in the fields of data mining and machine learning. In 
 
 News
 ------
+* 01/2022 I will serve as a PC member for ICML 2022.
 * 12/2021 I will serve as a PC member for ACM SIGKDD 2022.
 * 11/2021 I am selected for Huawei Top Minds Program.
 * 10/2021 I will serve as a PC member for The Web Conference 2022.
