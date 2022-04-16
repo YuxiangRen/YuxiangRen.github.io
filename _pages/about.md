@@ -18,6 +18,7 @@ My research interests lie in the fields of data mining and machine learning. In 
 
 News
 ------
+* 04/2022 One research papers are accepted by International Journal of Intelligent Systems
 * 01/2022 One research papers are accepted by International Journal of Intelligent Systems
 * 01/2022 I will serve as a PC member for ICML 2022.
 * 12/2021 I will serve as a PC member for ACM SIGKDD 2022.

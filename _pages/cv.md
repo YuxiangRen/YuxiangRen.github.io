@@ -19,6 +19,9 @@ Education
 
 Experience
 ======
+* 2022.2-Now: &nbsp;&nbsp;Researcher
+  * Huawei Technologies, 2012 Labs
+
 * 2017.12-2021.12: &nbsp;&nbsp;Research Assistant
   * IFM Lab, Florida State University
   * Supervisor: Dr. Jiawei Zhang
