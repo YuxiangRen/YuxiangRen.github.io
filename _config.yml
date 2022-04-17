@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuxiang Ren"
 title_separator          : "-"
-name                     : &name "Yuxiang Ren, Ph.D. (任宇翔)"
+name                     : &name "Yuxiang Ren, Ph.D."
 description              : &description "Researcher"
 url                      : https://yuxiangren.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuxiang Ren"
+  name             : "Yuxiang Ren, Ph.D. (任宇翔)"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student, Florida State University"
-  location         : "Tallahassee, FL"
+  bio              : "Researcher"
+  location         : "Hangzhou, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=SSC2dgcAAAAJ&hl=en"
   email            :
