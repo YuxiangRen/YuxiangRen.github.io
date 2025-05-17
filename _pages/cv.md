@@ -12,14 +12,17 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Florida State University, 2021
-* M.S. in Computer Science, Worcester Polytechnic Institute, 2017 
+* M.S. in Computer Science, Worcester Polytechnic Institute, 2017
 * B.Eng. in Software Engineering, Nanjing University, 2015
 * LL.B. in Law, Nanjing University, 2015
 
 
 Experience
 ======
-* 2022.2-Now: &nbsp;&nbsp;Researcher
+* 2025.6-Now: &nbsp;&nbsp;Tenure-track Assistant Professor
+  * Nanjing University, School of Intelligence Science and Technology
+
+* 2022.2-2025.6: &nbsp;&nbsp;Researcher(天才少年计划)
   * Huawei Technologies, 2012 Labs
 
 * 2017.12-2021.12: &nbsp;&nbsp;Research Assistant
@@ -29,7 +32,7 @@ Experience
 * 2021.5-2021.8: &nbsp;&nbsp;Research Intern
   * NEC Labs America, Princeton, NJ
   * Supervisor: Dr. Lu-an Tang
-  
+
 * 2020.5-2020.8: &nbsp;&nbsp;Research Intern
   * NEC Labs America, Princeton, NJ
   * Supervisor: Dr. Lu-an Tang, Dr. Wei Cheng
@@ -80,5 +83,3 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
-
-
