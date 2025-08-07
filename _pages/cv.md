@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV](http://yuxiangren.github.io/files/renyuxiangCV.pdf)
+
 Education
 ======
 * Ph.D in Computer Science, Florida State University, 2021
