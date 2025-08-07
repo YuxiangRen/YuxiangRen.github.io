@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](http://yuxiangren.github.io/files/renyuxiangCV.pdf)
+
 
 Education
 ======

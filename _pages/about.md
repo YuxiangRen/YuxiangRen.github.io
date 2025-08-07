@@ -17,6 +17,7 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 
 ​Email: renyuxiang931028@gmail.com
 
+[Full CV](http://yuxiangren.github.io/files/renyuxiangCV.pdf)
 
 
 
