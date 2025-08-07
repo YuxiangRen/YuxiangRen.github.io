@@ -12,7 +12,8 @@ redirect_from:
 
 My research interests lie in the fields of data mining and machine learning. In particular, I focus on the development and analysis of algorithms about graph neural networks, as well as heterogeneous graph mining and fake news detection. -->
 
-I am a tenure-track Assistant Professor at School of Intelligence Science and Technology, Nanjing University. Prior to joining Nanjing University, I joined Huawei's Central Research Institute, 2012 Laboratories as a Graph Computing Researcher (2022-2025) through Huawei's Top Minds program(“天才少年”计划). I earned my Ph.D. from Florida State University in 2021, supervised by [Prof. Jiawei Zhang](http://www.ifmlab.org/) (Now at University of California, Davis). I received my M.S. in Computer Science from Worcester Polytechnic Institute in 2017, supervised by Prof. Xiangnan Kong, and graduated from Nanjing University in 2015 with B.Eng. in Software Engineering and L.L.B in Law 
+I am a tenure-track Assistant Professor at School of Intelligence Science and Technology, Nanjing University. Prior to joining Nanjing University, I joined Huawei's Central Research Institute, 2012 Laboratories as a Graph Computing Researcher (2022-2025) through Huawei's Top Minds program(“天才少年”计划). I earned my Ph.D. from Florida State University in 2021, supervised by [Prof. Jiawei Zhang](http://www.ifmlab.org/) (Now at University of California, Davis). I received my M.S. in Computer Science from Worcester Polytechnic Institute in 2017, supervised by Prof. Xiangnan Kong, and graduated from Nanjing University in 2015 with B.Eng. in Software Engineering and L.L.B in Law.
+
 My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi-modal Scientific Large Models, On-device Agents.
 
 ​Email: renyuxiang931028@gmail.com
