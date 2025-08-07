@@ -63,7 +63,6 @@ Publications
 
 Awards
 ======
-* 华为云公有云总裁奖, 2025
 * 华为终端云服务总裁奖, 2025
 * 华为2012实验室总裁奖, 2025
 * 新型电力系统智能仿真器驭电–卓越人工智能引领者（SAIL奖）, 2024
@@ -71,7 +70,7 @@ Awards
 * 华为中央研究院总裁奖, 2022
 * Student Travel Award, ICDM 2020
 * Student Conference Travel Funding, FSU Computer Science Department, 2020
-* Student Travel Award, AAAI DLGMA'20
+* Student Travel Award, AAAI 2020
 * NSF Student Travel Award, IEEE TPS'19
 * NSF Student Travel Award, ICDE'19
 
