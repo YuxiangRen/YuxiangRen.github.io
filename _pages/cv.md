@@ -22,7 +22,7 @@ Experience
 * 2025.6-Now: &nbsp;&nbsp;Tenure-track Assistant Professor
   * Nanjing University, School of Intelligence Science and Technology
 
-* 2022.2-2025.6: &nbsp;&nbsp;Researcher(天才少年计划)
+* 2022.2-2025.6: &nbsp;&nbsp;Researcher("天才少年"计划)
   * Huawei Technologies, 2012 Labs
 
 * 2017.12-2021.12: &nbsp;&nbsp;Research Assistant
