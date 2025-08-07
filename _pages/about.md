@@ -19,6 +19,7 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 
 [Full CV](http://yuxiangren.github.io/files/renyuxiangCV.pdf)
 
+<span style="color:red"> We have opening positions for PhDs, Masters and Research Interns (not limited to NJU, work online). Interested persons please contact me directly!(微信：renyuxiang1028) </span>
 
 
 News
