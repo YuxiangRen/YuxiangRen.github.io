@@ -25,6 +25,7 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 
 News
 ------
+* 08/2025 One research paper is accepted by IEEE Transactions on Antennas and Propagation
 * 06/2025 I will join School of Intelligence Science and Technology, Nanjing University as a tenure-track Assistant Professor.
 * 04/2025 One research paper is accepted by KDD 2025.
 * 04/2025 One research paper is accepted by ACL-Findings 2025.
