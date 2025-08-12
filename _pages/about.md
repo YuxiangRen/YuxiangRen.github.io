@@ -23,6 +23,34 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 <span style="color:red"> We have opening positions for PhDs, Masters and Research Interns (not limited to NJU, work online). Interested persons please contact me directly! (微信：renyuxiang1028) </span>
 
 
+<div class="recruitment-section">
+
+# 2026年秋季研究生招生 / 2026 Fall Graduate Student Recruitment
+
+## 招生方向 / Research Areas:
+- [ ] 图计算与图神经网络 / Graph Neural Network
+- [ ] 科学智能 / AI4Science
+- [ ] 多模态科学大模型 / Multi-modal Scientific Large Models
+- [ ] 端侧Agent / On-device Agents
+- [ ] 智能电网分析 / Smart Grid Analytics
+
+## 申请要求 / Requirements:
+- 计算机科学、电子工程或相关专业背景 / Background in Computer Science, Electronic Engineering, or related fields
+- 热爱科研，对图计算、AI4S、端侧Agent有浓厚兴趣 / Strong interest in Graph Computing，AI4Science and On-device Agents
+- 良好的编程能力 (Python/C++) / Good programming skills (Python/C++)
+- 加分项：ACMer，ICPC，kaggle等比赛经验，或有论文发表经验 / Bonus points: Experience in competitions such as ACM，ICPC，Kaggle and so on, with a publication record.
+
+## 联系方式 / Contact:
+- 邮箱 / Email: renyuxiang931028@gmail.com
+- 请附上简历、成绩单和英语能力证明/ Please include CV, transcripts, and CET-4/6 Certificates
+
+<!-- ## 南大智科学生特别说明 / Special Notice for NJU Students:
+- 欢迎大二大学生进组实习 / Welcome sophomore and junior students for internships
+- 南大智科学生可到南雅楼西536办公室面聊 / NJU students can drop by Room 536 at Nanyong Building for face-to-face discussion
+- 实习期间可参与实际科研项目 / Interns can participate in actual research projects -->
+
+</div>
+
 News
 ------
 * 08/2025 One research paper is accepted by IEEE Transactions on Antennas and Propagation
