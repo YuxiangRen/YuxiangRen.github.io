@@ -39,9 +39,9 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 <p class="recruitment-subtitle">申请要求 / Requirements:</p>
 <ul class="recruitment-list">
 <li>计算机科学、电子工程或相关专业背景 / Background in Computer Science, Electronic Engineering, or related fields</li>
-<li>热爱科研，对图计算、AI4S、端侧Agent有浓厚兴趣 / Strong interest in Graph Computing，AI4Science and On-device Agents</li>
+<li>热爱科研，对图计算、AI4S、端侧Agent有浓厚兴趣 / Strong interest in Graph Computing，AI4S and On-device Agents</li>
 <li>良好的编程能力 (Python/C++) / Good programming skills (Python/C++)</li>
-<li>加分项：ACMer，ICPC，kaggle等比赛经验，或有论文发表经验 / Bonus points: Experience in competitions such as ACM, ICPC, Kaggle and so on; With a publication record.</li>
+<li>加分项：ACMer，ICPC，kaggle等比赛经验，或有论文发表经验 / Bonus points: Experience in competitions such as ACM, ICPC, Kaggle; With a publication record.</li>
 </ul>
 
 <p class="recruitment-subtitle">联系方式 / Contact:</p>

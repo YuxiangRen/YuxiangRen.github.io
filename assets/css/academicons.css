@@ -355,8 +355,8 @@
     color: #d32f2f !important;
     font-weight: bold !important;
     font-size: 1.1em !important;
-    margin-top: 15px;
-    margin-bottom: 8px;
+    margin-top: 15px !important;
+    margin-bottom: 8px !important;
 }
 
 
