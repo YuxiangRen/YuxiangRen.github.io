@@ -16,16 +16,16 @@ I am a tenure-track Assistant Professor at School of Intelligence Science and Te
 
 My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi-modal Scientific Large Models, On-device Agents.
 
-​Email: renyuxiang931028@gmail.com
+
 
 [Full CV](http://yuxiangren.github.io/files/renyuxiangCV.pdf)
 
-<span style="color:red"> We have opening positions for PhDs, Masters and Research Interns (not limited to NJU, work online). Interested persons please contact me directly! (微信：renyuxiang1028) </span>
+<span style="color:red"> We have opening positions for PhDs, Masters and Research Interns (not limited to NJU, work online). Interested persons please contact me directly! </span>
 
 
 <div class="recruitment-section">
 
-<h3 class="recruitment-title">2026年秋季研究生招生 / 2026 Fall Graduate Student Recruitment</h3>
+<p class="recruitment-title">2026年秋季研究生招生 / 2026 Fall Graduate Student Recruitment</p>
 
 <p class="recruitment-subtitle">招生方向 / Research Areas:</p>
 <ul class="recruitment-list">
