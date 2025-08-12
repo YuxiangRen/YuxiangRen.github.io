@@ -370,5 +370,6 @@
 .recruitment-list li {
     color: #d32f2f !important;
     font-weight: 500 !important;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
+    font-size: 0.8em;
 }
