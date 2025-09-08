@@ -32,7 +32,7 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 <li><strong>图计算与图神经网络 / Graph Neural Network</strong></li>
 <li><strong>科学智能 / AI4Science</strong></li>
 <li><strong>多模态科学大模型 / Multi-modal Scientific Large Models</strong></li>
-<li><strong>端侧Agent / On-device Agents</strong></li>
+<li><strong>端侧Agent与Memory / On-device Agents</strong></li>
 <li><strong>智能电网分析 / Smart Grid Analytics</strong></li>
 </ul>
 
