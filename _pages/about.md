@@ -46,7 +46,7 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 
 <p class="recruitment-subtitle">联系方式 / Contact:</p>
 <ul class="recruitment-list">
-<li>邮箱 / Email: <a class="recruitment-email">renyuxiang931028@gmail.com</a></li>
+<li>邮箱 / Email: <a class="recruitment-email">renyuxiang@nju.edu.cn</a></li>
 <li>请附上简历、成绩单和英语能力证明/ Please include CV, transcripts, and CET-4/6 Certificates</li>
 </ul>
 
