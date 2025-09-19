@@ -61,7 +61,8 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 
 News
 ------
-* 08/2025 One research paper is accepted by IEEE Transactions on Antennas and Propagation
+* 09/2025 One research paper is accepted by NeurIPS 2025.
+* 08/2025 One research paper is accepted by IEEE Transactions on Antennas and Propagation.
 * 06/2025 I will join School of Intelligence Science and Technology, Nanjing University as a tenure-track Assistant Professor.
 * 04/2025 One research paper is accepted by KDD 2025.
 * 04/2025 One research paper is accepted by ACL-Findings 2025.
@@ -75,7 +76,7 @@ News
 * 01/2024 Two research papers are accepted by DASFAA 2024.
 * 06/2023 One research paper is accepted by ISSRE 2023.
 * 01/2023 One research paper is accepted by DASFAA 2023.
-* 04/2022 two research papers are accepted by International Journal of Intelligent Systems
+* 04/2022 Two research papers are accepted by International Journal of Intelligent Systems。
 * 01/2022 I will serve as a PC member for ICML 2022, ACM SIGKDD 2022.
 * 11/2021 I am selected for Huawei Top Minds Program.
 * 10/2021 I will serve as a PC member for The Web Conference 2022, ICLR 2022.
