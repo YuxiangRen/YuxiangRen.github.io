@@ -25,7 +25,8 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 
 <div class="recruitment-section">
 
-<p class="recruitment-title">2026年秋季研究生招生 / 2026 Fall Graduate Student Recruitment</p>
+<p class="recruitment-title">2027年秋季研究生招生 / 2027 Fall Graduate Student Recruitment</p>
+<p class="recruitment-title">团队长期招聘科研实习生 / Researh Intern Hiring！</p>
 
 <p class="recruitment-subtitle">招生方向 / Research Areas:</p>
 <ul class="recruitment-list">
@@ -40,7 +41,7 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 <ul class="recruitment-list">
 <li>计算机科学、电子工程或相关专业背景 / Background in Computer Science, Electronic Engineering, or related fields</li>
 <li>热爱科研，对图计算、AI4S、端侧Agent有浓厚兴趣 / Strong interest in Graph Computing，AI4S and On-device Agents</li>
-<li>良好的编程能力 (Python/C++) / Good programming skills (Python/C++)</li>
+<li>良好的编程能力 (Python/C++)，有嵌入式开发、3D打印等方面经验或感兴趣的优先 / Good programming skills (Python/C++)</li>
 <li>加分项：ACMer，ICPC，kaggle等比赛经验，或有论文发表经验 / Bonus points: Experience in competitions such as ACM, ICPC, Kaggle; With a publication record.</li>
 </ul>
 
@@ -50,12 +51,12 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 <li>请附上简历、成绩单和英语能力证明/ Please include CV, transcripts, and CET-4/6 Certificates</li>
 </ul>
 
-<!-- <p class="recruitment-subtitle"><strong>南大智科学生特别说明 / Special Notice for NJU Students:</strong></p>
+<p class="recruitment-subtitle"><strong>南京大学STEM学科同学特别说明 / Special Notice for NJU Students:</strong></p>
 <ul class="recruitment-list">
 <li>欢迎大二大三学生进组实习 / Welcome sophomore and junior students for internships</li>
-<li class="office-highlight">南大智科学生可到南雍楼西536办公室面聊 / NJU students can drop by Room 536 at Nanyong Building for face-to-face discussion</li>
+<li class="office-highlight">南大苏州校区学生可到南雍楼西543办公室面聊 / NJU students can drop by Room 536 at Nanyong Building for face-to-face discussion</li>
 <li>实习期间可参与实际科研项目 / Interns can participate in actual research projects</li>
-</ul> -->
+</ul> 
 
 </div>
 
