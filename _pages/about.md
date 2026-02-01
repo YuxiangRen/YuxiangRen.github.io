@@ -56,12 +56,15 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 <li>欢迎大二大三学生进组实习 / Welcome sophomore and junior students for internships</li>
 <li class="office-highlight">南大苏州校区学生可到南雍楼西543办公室面聊 / NJU students can drop by Room 536 at Nanyong Building for face-to-face discussion</li>
 <li>实习期间可参与实际科研项目 / Interns can participate in actual research projects</li>
-</ul> 
+</ul>
 
 </div>
 
 News
 ------
+* 01/2026 We are very honored to receive granted funding from the Nanjing University AI+X Graduate Course Development Project.
+* 11/2025 I am very pleased to join the National Institute of Healthcare Data Science at Nanjing University as a dual-appointed PI.
+* 11/2025 We are very honored to receive granted funding from the Chip-X Future Intelligent Chip Interdisciplinary Research Center at Nanjing University.
 * 09/2025 One research paper is accepted by NeurIPS 2025.
 * 08/2025 One research paper is accepted by IEEE Transactions on Antennas and Propagation.
 * 06/2025 I will join School of Intelligence Science and Technology, Nanjing University as a tenure-track Assistant Professor.
