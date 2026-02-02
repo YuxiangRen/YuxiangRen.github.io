@@ -62,6 +62,7 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 
 News
 ------
+* 02/2026 One research paper is accepted by Nature Communication.
 * 01/2026 We are very honored to receive granted funding from the Nanjing University AI+X Graduate Course Development Project.
 * 01/2026 I am very pleased to be invited to serve as an Early Career Editorial Board Member of the Journal *AI for Science*.
 * 11/2025 I am very pleased to join the National Institute of Healthcare Data Science at Nanjing University as a dual-appointed PI.
