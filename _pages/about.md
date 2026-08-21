@@ -25,7 +25,7 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 
 <div class="recruitment-section">
 
-<p class="recruitment-title">2027年秋季研究生招生 / 2027 Fall Graduate Student Recruitment</p>
+<p class="recruitment-title">2028年秋季研究生招生 / 2028 Fall Graduate Student Recruitment</p>
 <p class="recruitment-title">团队长期招聘科研实习生 / Researh Intern Hiring！</p>
 
 <p class="recruitment-subtitle">招生方向 / Research Areas:</p>
@@ -62,6 +62,8 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 
 News
 ------
+* 08/2026 Two research papers are accepted by EMNLP'26.
+* 08/2026 We are very honored to receive granted funding from MOE Research Project on Curriculum and Textbooks across Educational Levels.
 * 05/2026 Two research papers are accepted by KDD'26 AI4Science Track.
 * 02/2026 One research paper is accepted by Nature Communications.
 * 01/2026 We are very honored to receive granted funding from the Nanjing University AI+X Graduate Course Development Project.
