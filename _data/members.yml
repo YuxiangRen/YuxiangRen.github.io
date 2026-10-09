@@ -9,10 +9,12 @@ phd_students:
   - name: 胡雯琦
     period: 2026–present
     role: 博士研究生
+    affiliation: 南京大学
     research: 端侧Agent，智能电网计算
   - name: 黄海涛
     period: 2026–present
     role: 博士研究生
+    affiliation: 南京大学
     research: AI for Science
 masters_students:
   - name: 周冉
@@ -24,6 +26,7 @@ masters_students:
   - name: 庄骐嘉
     period: 2026–present
     role: 硕士研究生
+    affiliation: 南京大学
     research: 端侧Agent，个性化记忆
 previously_mentored:
   - name: 曹慧琳
