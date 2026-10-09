@@ -1,0 +1,5 @@
+<ul class="award-list">
+  {% for honor in site.data.honors %}
+  <li><strong>{{ honor.year }} · {{ honor.title }}</strong>{% if honor.organization %}<span class="award-detail">{{ honor.organization }}</span>{% endif %}</li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,170 @@
+# Source: the user-provided CV, updated October 9, 2026, pages 1–3 and 6.
+# Earlier website details are retained where the new CV does not supersede them.
+updated: "2026-10-09"
+email: renyuxiang931028@gmail.com
+phone: "15152599515"
+research:
+  - area: Graph Learning
+    topics: Graph Neural Network; Geometric Deep Learning; Graph-Related LLMs
+  - area: AI for Science
+    topics: Graph for Science; Drug Discovery; Molecular Representation Learning; Computational Electromagnetics
+  - area: Industry Application
+    topics: AI for IT Operations; Fake News Detection; Fraud Analysis and Detection
+education:
+  - period: 2018–2021
+    degree: Ph.D. in Computer Science
+    institution: Florida State University, USA
+    details:
+      - "Dissertation: Mining on Graphs: Graph Neural Network and Applications"
+      - "Advisor: Jiawei Zhang (张嘉洧), Ph.D."
+  - period: 2015–2017
+    degree: M.S. in Computer Science
+    institution: Worcester Polytechnic Institute, USA
+    details:
+      - "Advisor: Xiangnan Kong (孔祥南), Ph.D."
+  - period: 2011–2015
+    degree: B.Eng. in Software Engineering; LL.B. in Law
+    institution: Nanjing University, China
+experience:
+  - period: 2025.6–present
+    role: Tenure-track Assistant Professor
+    institution: School of Intelligence Science and Technology, Nanjing University, Suzhou, China
+    details:
+      - 特聘研究员、博士生导师 / Ph.D. Supervisor
+  - period: 2022.2–2025.6
+    role: Senior Researcher
+    institution: Advanced Computing and Storage Lab, Central Research Institute, Huawei Technologies, Shanghai, China
+    details:
+      - Huawei Top Minds Program（天才少年计划）
+  - period: 2018–2021
+    role: Research Assistant
+    institution: IFM Lab, Department of Computer Science, Florida State University, USA
+    details:
+      - "Supervisor: Dr. Jiawei Zhang"
+  - period: 2021.5–2021.8
+    role: Research Intern
+    institution: Deep Learning Group, NEC Labs America, Princeton, NJ, USA
+    details:
+      - "Supervisors: Dr. Lu-An Tang and Dr. Wei Cheng"
+  - period: 2020.5–2020.8
+    role: Research Intern
+    institution: Deep Learning Group, NEC Labs America, Princeton, NJ, USA
+    details:
+      - "Supervisors: Dr. Lu-An Tang and Dr. Wei Cheng"
+  - period: 2019.5–2019.8
+    role: Research Intern
+    institution: Machine Learning Group, JD Silicon Valley Research Center, CA, USA
+    details:
+      - "Supervisors: Dr. Liefeng Bo and Dr. Bo Liu"
+  - period: 2018.5–2018.8
+    role: Research Intern
+    institution: Risk Management Department, JD Digits, Beijing, China
+    details:
+      - "Supervisor: Dr. Hao Zhu"
+  - period: 2016.5–2017.5
+    role: Software Engineer Intern
+    institution: Dealertrack Technologies, Groton, CT, USA
+    details:
+      - "Supervisor: Mr. Mark Vitko"
+  - period: 2014.7–2015.1
+    role: Software Developer Intern
+    institution: IBM China Development Laboratory, Shanghai, China
+    details:
+      - "Supervisor: Mr. Xinwei Chen"
+teaching:
+  - term: Fall 2026
+    code: 081200C83
+    title: AI驱动集成电路设计导论
+    institution: 智能科学与技术学院，南京大学
+  - term: Spring 2026
+    code: "90112101"
+    title: 高级程序设计
+    institution: 智能科学与技术学院，南京大学
+  - term: Spring 2020
+    code: CIS 5930-0003
+    title: Deep Learning and Applications
+    institution: Department of Computer Science, Florida State University
+    co_instructor: Jiawei Zhang, Ph.D.
+  - term: Spring 2019
+    code: CIS 5930-0002
+    title: Advanced Data Mining
+    institution: Department of Computer Science, Florida State University
+    co_instructor: Jiawei Zhang, Ph.D.
+  - term: Spring 2018
+    code: CIS 5930-0004
+    title: Social Network Mining
+    institution: Department of Computer Science, Florida State University
+    co_instructor: Jiawei Zhang, Ph.D.
+projects:
+  - period: 2026–2029
+    title: 江苏省自然科学基金青年基金项目
+    role: PI
+  - period: 2026–2028
+    title: 教育部大中小学课程教材研究项目
+    role: PI
+    funding: 教育部
+  - period: 2026–2028
+    title: Graph for Industry
+    role: PI
+    funding: 徐新基金
+  - period: 2026–2027
+    title: 几何拓扑模态增强的分子多模态大模型构建方法研究
+    role: PI
+    funding: 计算机软件新技术全国重点实验室创新项目-面上项目
+  - period: 2026–2027
+    title: 基于眼动信息分析的个性化数据挖掘及主动服务
+    role: Co-PI
+    funding: 华为技术有限公司
+  - period: 2026–2027
+    title: AI驱动集成电路设计导论
+    role: PI
+    funding: 南京大学AI+X研究生课程专项
+  - period: 2025–2026
+    title: 面向光子晶体面发射激光器（PCSEL）的AI辅助设计研究
+    role: Co-PI
+    funding: 南京大学Chip-X未来智能芯片交叉研究中心AI4S专项项目
+  - period: 2025–2026
+    title: 大模型长文本能力在个性化交互场景下的训练与应用技术研究
+    role: Co-PI
+    funding: 南京大学-中国移动联合研究院研发项目
+patents:
+  - year: 2026
+    number: CN121662216A
+    inventors: 刘力维, 任宇翔, 张凯薇, 杜伟韬
+    title: 一种分子结构确定方法、装置、电子设备和存储介质
+  - year: 2026
+    number: CN121935391A
+    inventors: 向思齐, 孙刘, 余恩宇, 孙伟健, 任宇翔
+    title: 知识图谱的构建方法、检索方法、装置、设备及存储介质
+  - year: 2025
+    number: CN120636408A
+    inventors: 盛建国, 张航, 任宇翔, 张燕
+    title: 一种基于CTC-Attention混合架构的语音操控超声波调节设置方法
+  - year: 2025
+    number: CN121237235A
+    inventors: 任宇翔, 德米特里-戈罗沃伊
+    title: 逆合成处理方法、装置、电子设备及存储介质
+  - year: 2025
+    number: CN120636507A
+    inventors: 杜伟韬, 任宇翔, 陈玖玖
+    title: 一种分子表征信息生成模型的训练方法及相关装置
+  - year: 2025
+    number: CN119441586B
+    inventors: 石川, 任宇翔, 刘佳玮
+    title: 一种推荐方法及装置
+  - year: 2024
+    number: CN118133031A
+    inventors: 石川, 任宇翔, 闫博
+    title: 异常事件检测方法、异常事件检测模型构建方法以及装置
+  - year: 2023
+    number: US20230112441A1
+    inventors: LuAn Tang, Yuncong Chen, Wei Cheng, Zhengzhang Chen, Haifeng Chen, Yuji Kobayashi, Yuxiang Ren
+    title: Data fusion and analysis engine for vehicle sensors
+  - year: 2022
+    number: US20220111836A1
+    inventors: LuAn Tang, Wei Cheng, Haifeng Chen, Zhengzhang Chen, Yuxiang Ren
+    title: Modular network based knowledge sharing for multiple entities
+  - year: 2020
+    number: CN111652837A
+    inventors: 张航, 任宇翔, 赵佳琦, 章建全
+    title: 基于AI的甲状腺结节左右叶定位与超声报告纠错方法

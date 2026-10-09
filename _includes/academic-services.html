@@ -1,0 +1,32 @@
+<section aria-labelledby="standards">
+  <h{{ include.heading_level | default: 2 }} id="standards">National Standards</h{{ include.heading_level | default: 2 }}>
+  <ul class="service-list">
+    {% for service in site.data.services.standards %}
+    <li lang="zh-CN"><strong>《{{ service.title }}》</strong><br>{{ service.organization }} · {{ service.role }}</li>
+    {% endfor %}
+  </ul>
+</section>
+<section aria-labelledby="editorial">
+  <h{{ include.heading_level | default: 2 }} id="editorial">Editorial Board</h{{ include.heading_level | default: 2 }}>
+  <ul class="service-list">
+    {% for service in site.data.services.editorial %}
+    <li><strong>{{ service.journal }}</strong> · {{ service.years }}<br>{{ service.role }}</li>
+    {% endfor %}
+  </ul>
+</section>
+<section aria-labelledby="conference-review">
+  <h{{ include.heading_level | default: 2 }} id="conference-review">Conference Reviewing</h{{ include.heading_level | default: 2 }}>
+  <ul class="service-list">
+    {% for service in site.data.services.conferences %}
+    <li><strong>{{ service.name }}</strong> · {{ service.years }}</li>
+    {% endfor %}
+  </ul>
+</section>
+<section aria-labelledby="journal-review">
+  <h{{ include.heading_level | default: 2 }} id="journal-review">Journal Reviewing</h{{ include.heading_level | default: 2 }}>
+  <ul class="service-list">
+    {% for service in site.data.services.journals %}
+    <li><strong>{{ service.name }}</strong> · {{ service.years }}</li>
+    {% endfor %}
+  </ul>
+</section>

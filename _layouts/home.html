@@ -1,0 +1,21 @@
+---
+layout: academic
+---
+<section class="profile" aria-label="Profile">
+  <div class="profile-details">
+    <h1 class="profile-name">{{ site.title }} <span lang="zh-CN">{{ site.author.name_zh }}</span></h1>
+    <p class="position">{{ site.description }} · Ph.D.</p>
+    <p>Ph.D. Supervisor</p>
+    <p>{{ site.author.department }}<br>Nanjing University (Suzhou Campus)</p>
+    <p><a href="https://www.nju-link.com/">NJU LINK Lab</a></p>
+    <p><strong>Email:</strong> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+    <div class="contact-links">
+      <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+      <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+      <a href="{{ site.author.researchgate }}">ResearchGate</a>
+      <a href="{{ '/files/renyuxiangCV.pdf' | relative_url }}?v={{ site.data.cv.updated | remove: '-' }}">Full CV</a>
+    </div>
+  </div>
+  <img class="portrait" src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" width="960" height="960" alt="{{ site.title }}" decoding="async">
+</section>
+{{ content }}

@@ -1,0 +1,40 @@
+/* Site-specific additions; academic.css retains the shared LINK homepage style. */
+.profile { grid-template-columns: minmax(0, 1fr) 180px; }
+.portrait { width: 180px; }
+.recruitment-title { color: var(--navy); font-weight: 650; margin-bottom: 7px; }
+.recruitment-subtitle { color: var(--navy); font-weight: 600; margin: 23px 0 9px; }
+.recruitment-list { margin-bottom: 15px; }
+.recruitment-section { border: 1px solid var(--line); border-radius: 5px; padding: 23px 25px 8px; }
+.recruitment-section p:first-child { margin-top: 0; }
+.pub-controls { grid-template-columns: minmax(180px, 1fr) 170px; }
+.paper-links { margin-top: 8px; font-size: 13px; }
+.paper-links p { margin-bottom: 0; }
+.paper-content { margin-top: 22px; }
+.publication-detail .paper-authors { font-size: 16px; }
+.publication-detail .paper-meta { font-size: 14px; }
+.citation { overflow-wrap: anywhere; padding: 18px; background: var(--soft); font-size: 13px; }
+.back-link { margin-top: 32px; }
+.member-detail { display: block; color: var(--muted); font-size: 13px; line-height: 1.7; margin-top: 6px; }
+.member-publications a { display: inline-block; margin-right: 5px; }
+.cv-records { list-style: none; padding: 0; }
+.cv-records > li { margin: 0; padding: 16px 0; border-bottom: 1px solid var(--line); }
+.cv-records > li:last-child { border-bottom: 0; }
+.cv-records p { margin: 5px 0; }
+.cv-records .record-date { color: var(--muted); font-size: 14px; }
+.cv-records .record-detail { color: var(--muted); font-size: 14px; }
+.cv-records ul { margin-top: 6px; margin-bottom: 0; }
+@media (max-width: 720px) {
+  .profile { grid-template-columns: minmax(0, 1fr) 125px; }
+  .portrait { width: 125px; }
+  .recruitment-section { padding: 18px 17px 4px; }
+  .pub-controls { grid-template-columns: 1fr; }
+}
+@media (max-width: 540px) {
+  .profile { grid-template-columns: 1fr; }
+  .portrait { width: 112px; }
+  .citation { padding: 10px; font-size: 12px; }
+}
+@media print {
+  .older-news:not([open]) > ul { display: block; }
+  .older-news summary { display: none; }
+}

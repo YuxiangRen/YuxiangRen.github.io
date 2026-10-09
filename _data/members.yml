@@ -1,0 +1,94 @@
+# Sources: files/renyuxiangCV.pdf, pages 6–8 (updated October 9, 2026),
+# and subsequent member additions and role updates provided by Yuxiang Ren.
+postdoctoral_researchers:
+  - name: 白霁阳 博士
+    period: 2026–present
+    research: Graph Computing，智能电网计算
+    publications: [C21, C24, C25, C29, J5, J6]
+phd_students:
+  - name: 胡雯琦
+    period: 2026–present
+    role: 博士研究生
+    research: 端侧Agent，智能电网计算
+  - name: 黄海涛
+    period: 2026–present
+    role: 博士研究生
+    research: AI for Science
+masters_students:
+  - name: 周冉
+    period: 2026–present
+    role: 硕士研究生
+    affiliation: 南京大学
+    research: 端侧Agent，个性化记忆
+    publications: [C1]
+  - name: 庄骐嘉
+    period: 2026–present
+    role: 硕士研究生
+    research: 端侧Agent，个性化记忆
+previously_mentored:
+  - name: 曹慧琳
+    period: 2023–2025
+    role: 博士研究生
+    affiliation: 上海交通大学
+    research: AI for Science, GNN4PDE
+    publications: [J2, C4]
+  - name: 李宇涵
+    period: 2024–2025
+    role: 博士研究生
+    affiliation: 香港科技大学
+    research: Graph RAG, Graph for LLM
+    publications: [C9, C6]
+  - name: 刘文豪
+    period: 2024–2025
+    role: 硕士研究生
+    affiliation: 北京邮电大学
+    research: LLM4Math, LLM Benchmark
+    publications: [C7, C3]
+  - name: 虞健翔
+    period: 2023–2024
+    role: 博士研究生
+    affiliation: 华东师范大学
+    research: Graph Representation Learning
+    publications: [C10]
+  - name: 于文昊
+    period: 2023–2024
+    role: 硕士研究生
+    affiliation: 香港中文大学
+    research: AI for Science
+    publications: [C11]
+  - name: 孙圣印
+    period: 2023–2024
+    role: 博士研究生
+    affiliation: 香港城市大学
+    research: AI for Science
+    publications: [C8, C11]
+  - name: 张天宇
+    period: 2023–2024
+    role: 硕士研究生
+    affiliation: 清华大学
+    research: Graph Representation Learning, AI for Science
+    publications: [C12, C17]
+  - name: 张万豪
+    period: 2023–2024
+    role: 硕士研究生
+    affiliation: 清华大学
+    research: Artificial Intelligence for IT Operations
+    publications: [C14, C16]
+  - name: 吴凯龙
+    period: 2023–2024
+    role: 硕士研究生
+    affiliation: 上海交通大学
+    research: Graph Neural Network, Topology Optimization
+    publications: [C18]
+  - name: 孟琳
+    period: 2018–2022
+    role: 研究员
+    affiliation: VISA Research Center
+    research: Social Network Alignemnt
+    publications: [C20, C27, C31]
+  - name: 王博
+    period: 2018–2019
+    role: 博士研究生
+    affiliation: 吉林大学
+    research: Fake News Detection
+    publications: [C26]

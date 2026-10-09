@@ -1,0 +1,5 @@
+<ul class="research-list">
+  {% for interest in site.data.cv.research %}
+  <li><strong>{{ interest.area }}:</strong> {{ interest.topics }}.</li>
+  {% endfor %}
+</ul>

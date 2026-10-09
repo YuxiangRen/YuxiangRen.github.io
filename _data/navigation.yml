@@ -1,7 +1,19 @@
 # main links links
 main:
+  - title: "About"
+    url: /
+
   - title: "Publications"
     url: /publications/
+
+  - title: "Members"
+    url: /group.html
+
+  - title: "Services"
+    url: /service.html
+
+  - title: "Honors"
+    url: /award.html
 
 #  - title: "Talks"
 #    url: /talks/    
@@ -15,8 +27,6 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/

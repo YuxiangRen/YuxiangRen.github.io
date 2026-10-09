@@ -1,0 +1,16 @@
+<ul class="members">
+  {% for member in include.members %}
+  <li class="member">
+    <span class="member-name" lang="zh-CN">{{ member.name }}</span>
+    {% if member.period %}<span class="member-year">{{ member.period }}</span>{% endif %}
+    {% if member.role or member.affiliation %}<span class="member-detail">{{ member.role }}{% if member.role and member.affiliation %} · {% endif %}{{ member.affiliation }}</span>{% endif %}
+    {% if member.research %}<span class="member-detail">{{ member.research }}</span>{% endif %}
+    {% if member.publications %}
+    <span class="member-detail member-publications">Publications:
+      {% for ref in member.publications %}{% assign paper = site.publications | where: 'cv_id', ref | first %}{% if paper %}<a href="{{ paper.url | relative_url }}" title="{{ paper.title | escape }}" aria-label="{{ paper.title | escape }}">[{{ ref }}]</a>{% endif %}{% endfor %}
+    </span>
+    {% endif %}
+    {% if member.url %}<a class="member-link" href="{{ member.url }}">Profile ↗</a>{% endif %}
+  </li>
+  {% endfor %}
+</ul>

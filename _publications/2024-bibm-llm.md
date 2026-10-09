@@ -1,8 +1,13 @@
 ---
-title: "Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models. "
+title: Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models
 collection: publications
 permalink: /publication/2024-bibm-llm
-excerpt: 'Tianyu Zhang*, Yuxiang Ren*♢, Chengbin Hou, Hairong Lv, and Xuegong Zhang'
+excerpt: Tianyu Zhang*, Yuxiang Ren*♢, Chengbin Hou, Hairong Lv, and Xuegong Zhang
 date: 2024-04-01
-venue: 'International Conference on Bioinformatics and Biomedicine (IEEE BIBM’24)'
+venue: International Conference on Bioinformatics and Biomedicine (IEEE BIBM’24)
+cv_id: C12
+cv_order: 12
+kind: conference
+source: CV, updated 2026-10-09
+classification: CCF-B
 ---

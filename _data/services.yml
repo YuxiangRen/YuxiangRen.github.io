@@ -1,0 +1,53 @@
+# Source: files/renyuxiangCV.pdf, pages 8–9 (updated October 9, 2026).
+standards:
+  - title: 信息技术 神经网络表示与模型压缩 第3部分：图神经网络
+    organization: 全国信息技术标准化技术委员会
+    role: 国家标准提案起草（排名第四）
+editorial:
+  - journal: AI for Science
+    role: 青年编委 / Early Career Editorial Board Member
+    years: 2026–2028
+conferences:
+  - name: Learning on Graphs Conference (LoG)
+    years: "2024"
+  - name: IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM)
+    years: "2024"
+  - name: International Conference on Machine Learning (ICML)
+    years: "2022–2025"
+  - name: SIGKDD Conference of Knowledge Discovery and Data Mining (KDD)
+    years: "2022–2026"
+  - name: The Web Conference (WWW)
+    years: "2023, 2024"
+  - name: IEEE World Congress on Computational Intelligence (IEEE WCCI)
+    years: "2022"
+  - name: International Conference on Learning Representations (ICLR)
+    years: "2022, 2023"
+  - name: Conference on Neural Information Processing Systems (NeurIPS)
+    years: "2020, 2021"
+  - name: AAAI Conference on Artificial Intelligence (AAAI)
+    years: "2021, 2023, 2025"
+  - name: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, Research Track (ECML-PKDD)
+    years: "2020"
+journals:
+  - name: IEEE Transactions on Pattern Analysis and Machine Intelligence
+    years: "2025"
+  - name: IEEE Transactions on Industrial Informatics
+    years: "2025"
+  - name: IEEE Transactions on Cybernetics
+    years: "2025"
+  - name: Journal of Chemical Information and Modeling
+    years: "2025"
+  - name: ACM Transactions on Knowledge Discovery from Data (TKDD)
+    years: "2025"
+  - name: IEEE Transactions on Knowledge and Data Engineering (TKDE)
+    years: "2020, 2021, 2025"
+  - name: IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+    years: "2021, 2022"
+  - name: IEEE Transactions on Big Data (TBD)
+    years: "2020, 2021, 2025"
+  - name: Cybernetics and Systems
+    years: "2022"
+  - name: Computer Networks
+    years: "2024"
+  - name: IEEE Sensors Journal
+    years: "2025"

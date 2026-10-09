@@ -1,0 +1,13 @@
+---
+layout: academic
+---
+<article class="publication-detail">
+  <p class="paper-authors">{{ page.excerpt | replace: 'Yuxiang Ren', '<strong>Yuxiang Ren</strong>' }}</p>
+  <p class="paper-meta"><span class="venue">{{ page.venue }}</span><span>{{ page.date | date: '%Y' }}</span>{% if page.classification %}<span>{{ page.classification }}</span>{% endif %}{% if page.note %}<span>{{ page.note }}</span>{% endif %}</p>
+  <div class="paper-content">{{ content }}</div>
+  {% if page.paperurl and page.paperurl != '' %}<p><a href="{{ page.paperurl }}">Paper</a></p>{% endif %}
+  {% if page.citation and page.citation != '' %}
+    <section aria-labelledby="citation"><h2 id="citation">Citation</h2><div class="citation">{{ page.citation }}</div></section>
+  {% endif %}
+  <p class="back-link"><a href="{{ '/publications/' | relative_url }}">← All publications</a></p>
+</article>

@@ -86,7 +86,9 @@ author:
   location         : "Suzhou, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=SSC2dgcAAAAJ&hl=en"
-  email            :
+  email            : "renyuxiang@nju.edu.cn"
+  name_zh          : "任宇翔"
+  department       : "School of Intelligence Science and Technology"
   researchgate     :  "https://www.researchgate.net/profile/Yuxiang_Ren"
   uri              :
   bitbucket        :
@@ -142,6 +144,7 @@ exclude:
   - package.json
   - Rakefile
   - README
+  - THIRD_PARTY.md
   - tmp
 keep_files:
   - .git
@@ -220,7 +223,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: publication
       author_profile: true
       share: true
       comments: true

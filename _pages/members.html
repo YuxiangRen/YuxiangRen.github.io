@@ -1,0 +1,23 @@
+---
+layout: academic
+title: Members
+permalink: /group.html
+body_class: page-group
+---
+
+<section aria-labelledby="postdoctoral-researchers">
+  <h2 id="postdoctoral-researchers">Postdoctoral Researchers</h2>
+  {% include academic-members.html members=site.data.members.postdoctoral_researchers %}
+</section>
+<section aria-labelledby="phd-students">
+  <h2 id="phd-students">Ph.D. Students</h2>
+  {% include academic-members.html members=site.data.members.phd_students %}
+</section>
+<section aria-labelledby="masters-students">
+  <h2 id="masters-students">Master’s Students</h2>
+  {% include academic-members.html members=site.data.members.masters_students %}
+</section>
+<section aria-labelledby="previously-mentored">
+  <h2 id="previously-mentored">Previously Mentored Students <span class="section-note" lang="zh-CN">曾指导学生</span></h2>
+  {% include academic-members.html members=site.data.members.previously_mentored %}
+</section>
