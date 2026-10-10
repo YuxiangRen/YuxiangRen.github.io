@@ -66,7 +66,7 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 <p class="recruitment-subtitle"><strong>南京大学STEM学科同学特别说明 / Special Notice for NJU Students:</strong></p>
 <ul class="recruitment-list">
 <li>欢迎大二大三学生进组实习 / Welcome sophomore and junior students for internships</li>
-<li class="office-highlight">南大苏州校区学生可到南雍楼西543办公室面聊 / NJU students can drop by Room 536 at Nanyong Building for face-to-face discussion</li>
+<li class="office-highlight">南大苏州校区学生可到南雍楼西543办公室面聊 / NJU students can drop by Room 543 at Nanyong Building for face-to-face discussion</li>
 <li>实习期间可参与实际科研项目 / Interns can participate in actual research projects</li>
 </ul>
 
