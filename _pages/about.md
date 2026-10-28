@@ -75,8 +75,10 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 
 <section aria-labelledby="news"><h2 id="news">News</h2>
 <ul class="news">
-  <li><time datetime="2026">2026</time><span>I was selected as a Gusu Young Scholar (姑苏青年学者).</span></li>
-  <li><time datetime="2026">2026</time><span>I am leading a Jiangsu Provincial Natural Science Foundation Youth Fund project (2026–2029).</span></li>
+  <li><time datetime="2026-10">10/2026</time><span>I am honored to serve as a Guest Editor for the <em>Mathematics</em> special issue <a href="https://www.mdpi.com/journal/mathematics/special_issues/L2Z5H6Y69D">Graph Algorithms and Adaptive Systems: Modeling, Learning, and Optimization</a>. Submissions are welcome!</span></li>
+  <li><time datetime="2026-09">09/2026</time><span>I am honored to serve as a Guest Editor for the <em>Electronics</em> special issue <a href="https://www.mdpi.com/journal/electronics/special_issues/BIN586DAXG">Large-Scale Graph Processing and Learning</a>. Submissions are welcome!</span></li>
+  <li><time datetime="2026-09">09/2026</time><span>I was selected as a Gusu Young Scholar (姑苏青年学者).</span></li>
+  <li><time datetime="2026-09">09/2026</time><span>I am leading a Jiangsu Provincial Natural Science Foundation Youth Fund project (2026–2029).</span></li>
   <li><time datetime="2026-08">08/2026</time><span>Two research papers are accepted by EMNLP'26.</span></li>
   <li><time datetime="2026-08">08/2026</time><span>We are very honored to receive granted funding from MOE Research Project on Curriculum and Textbooks across Educational Levels.</span></li>
   <li><time datetime="2026-05">05/2026</time><span>Two research papers are accepted by KDD'26 AI4Science Track.</span></li>
@@ -85,11 +87,11 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
   <li><time datetime="2026-01">01/2026</time><span>I am very pleased to be invited to serve as an Early Career Editorial Board Member of the Journal <em>AI for Science</em>.</span></li>
   <li><time datetime="2025-11">11/2025</time><span>I am very pleased to join the National Institute of Healthcare Data Science at Nanjing University as a dual-appointed PI.</span></li>
   <li><time datetime="2025-11">11/2025</time><span>We are very honored to receive granted funding from the Chip-X Future Intelligent Chip Interdisciplinary Research Center at Nanjing University.</span></li>
-  <li><time datetime="2025-09">09/2025</time><span>One research paper is accepted by NeurIPS 2025.</span></li>
-  <li><time datetime="2025-08">08/2025</time><span>One research paper is accepted by IEEE Transactions on Antennas and Propagation.</span></li>
 </ul>
 <details class="older-news"><summary>Earlier news</summary>
 <ul class="news">
+  <li><time datetime="2025-09">09/2025</time><span>One research paper is accepted by NeurIPS 2025.</span></li>
+  <li><time datetime="2025-08">08/2025</time><span>One research paper is accepted by IEEE Transactions on Antennas and Propagation.</span></li>
   <li><time datetime="2025-06">06/2025</time><span>I will join School of Intelligence Science and Technology, Nanjing University as a tenure-track Assistant Professor.</span></li>
   <li><time datetime="2025-04">04/2025</time><span>One research paper is accepted by KDD 2025.</span></li>
   <li><time datetime="2025-04">04/2025</time><span>One research paper is accepted by ACL-Findings 2025.</span></li>

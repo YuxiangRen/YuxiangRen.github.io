@@ -8,7 +8,7 @@ come from this repository, not from the reference site's content.
 
 ## Edit content
 
-- `_pages/about.md`: biography, recruitment, research interests, all 48 news
+- `_pages/about.md`: biography, recruitment, research interests, all 50 news
   entries, followed by Education and Experience.
 - `_publications/*.md`: publication titles, authors, dates, venues, citations,
   and paper links. Each publication must have its own `permalink`.
