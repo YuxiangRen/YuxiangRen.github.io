@@ -75,8 +75,8 @@ My research interests primarily focus on AI4Science, Smart Grid Analytics, Multi
 
 <section aria-labelledby="news"><h2 id="news">News</h2>
 <ul class="news">
-  <li><time datetime="2026-10">10/2026</time><span>I am honored to serve as a Guest Editor for the <em>Mathematics</em> special issue <a href="https://www.mdpi.com/journal/mathematics/special_issues/L2Z5H6Y69D">Graph Algorithms and Adaptive Systems: Modeling, Learning, and Optimization</a>. Submissions are welcome!</span></li>
-  <li><time datetime="2026-09">09/2026</time><span>I am honored to serve as a Guest Editor for the <em>Electronics</em> special issue <a href="https://www.mdpi.com/journal/electronics/special_issues/BIN586DAXG">Large-Scale Graph Processing and Learning</a>. Submissions are welcome!</span></li>
+  <li><time datetime="2026-10">10/2026</time><span>I am honored to serve as a Guest Editor for the <em>Mathematics</em> (ISSN: 2227-7390) special issue <a href="https://www.mdpi.com/journal/mathematics/special_issues/L2Z5H6Y69D">Graph Algorithms and Adaptive Systems: Modeling, Learning, and Optimization</a>. Submissions are welcome!</span></li>
+  <li><time datetime="2026-09">09/2026</time><span>I am honored to serve as a Guest Editor for the <em>Electronics</em> (ISSN: 2079-9292) special issue <a href="https://www.mdpi.com/journal/electronics/special_issues/BIN586DAXG">Large-Scale Graph Processing and Learning</a>. Submissions are welcome!</span></li>
   <li><time datetime="2026-09">09/2026</time><span>I was selected as a Gusu Young Scholar (姑苏青年学者).</span></li>
   <li><time datetime="2026-09">09/2026</time><span>I am leading a Jiangsu Provincial Natural Science Foundation Youth Fund project (2026–2029).</span></li>
   <li><time datetime="2026-08">08/2026</time><span>Two research papers are accepted by EMNLP'26.</span></li>
